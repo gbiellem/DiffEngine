@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiffEngineTray.Tests", "Dif
 		{2B054DB2-42A0-4F3E-87CC-30D6E926D0D9} = {2B054DB2-42A0-4F3E-87CC-30D6E926D0D9}
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiffEngineTrayAvalonia", "DiffEngineTrayAvalonia\DiffEngineTrayAvalonia.csproj", "{82AECCA9-D23A-4414-8E51-C8B1ADA43EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,12 @@ Global
 		{E339AB28-21B2-47DB-B995-EB2C4CE8BA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E339AB28-21B2-47DB-B995-EB2C4CE8BA99}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E339AB28-21B2-47DB-B995-EB2C4CE8BA99}.Release-NotWindows|Any CPU.ActiveCfg = Release|Any CPU
+		{82AECCA9-D23A-4414-8E51-C8B1ADA43EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AECCA9-D23A-4414-8E51-C8B1ADA43EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AECCA9-D23A-4414-8E51-C8B1ADA43EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AECCA9-D23A-4414-8E51-C8B1ADA43EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82AECCA9-D23A-4414-8E51-C8B1ADA43EB9}.Release-NotWindows|Any CPU.ActiveCfg = Release|Any CPU
+		{82AECCA9-D23A-4414-8E51-C8B1ADA43EB9}.Release-NotWindows|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
